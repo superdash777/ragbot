@@ -1,0 +1,7 @@
+qdrant-client
+sentence-transformers
+llama-index
+openai
+pyTelegramBotAPI
+numpy
+python-dotenv
