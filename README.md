@@ -55,7 +55,7 @@ Telegram-бот, который отвечает на вопросы о роля
 
 ```
 skills_assistant_bot.ipynb   — изначальный ноутбук с кодом и пояснениями, а также проверками
-career_bot.py                — production-версия бота 
+career_bot.py                — версия бота для деплоя без пояснений
 text2_expanded.txt           — база знаний (15 IT-ролей)
 test_dataset.json            — тестовый датасет (12 вопросов с эталонами)
 requirements.txt             — зависимости Python
